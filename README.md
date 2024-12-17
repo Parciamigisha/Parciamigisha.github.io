@@ -2,7 +2,7 @@
 https://parciamigisha.github.io/
 <html>
 	<head>
-		<title>Strike a Chord: Template</title>
+		<title>Parcia's: Template</title>
 		<meta charset="utf-8">
 	</head>
 	<body>
